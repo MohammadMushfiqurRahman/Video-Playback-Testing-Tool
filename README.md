@@ -325,7 +325,6 @@ black video_test.py video_checker.py
 
 ### Planned Improvements
 - [ ] Complete `check_video_url()` function implementation
-- [ ] Add command-line argument support
 - [ ] Implement retry mechanisms for failed tests
 - [ ] Add support for other video platforms (Vimeo, etc.)
 - [ ] Create web-based dashboard for test results
